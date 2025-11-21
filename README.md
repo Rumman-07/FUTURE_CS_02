@@ -70,3 +70,7 @@
 <h3>🚀 Conclusion</h3>
 
 🔹This task provided real-world experience in how SOC teams detect and respond to cyber threats. It strengthened my skills in log analysis, SIEM usage, and incident documentation.
+
+-----
+
+<h2> 🙍‍♂️ Author : Rumman Ahamed Khan</h2>
